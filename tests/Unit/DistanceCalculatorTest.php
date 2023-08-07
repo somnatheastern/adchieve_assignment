@@ -14,7 +14,6 @@ class DistanceCalculatorTest extends TestCase
      */
     public function test_check_position_stack_api_has_result()
     {
-
         $apiService = new PositionstackApiService();
 
         $address = $this->getTestAddress();
