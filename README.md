@@ -20,7 +20,7 @@ This assessment created using Laravel 10 version. In order to execute the progra
 
 ### Clone repository
 
-Please take clone from https://github.com/somnatheastern/adchieve_task.git on your local environment. Once you successfully take clone of repository, please open terminal in cloned folder. Then switch to branch ``assessment``.
+Please take clone from https://github.com/somnatheastern/adchieve_task.git on your local environment. Once you successfully take clone of repository, please open terminal in cloned folder.
 
 ### Setup Codebase
 #### Install Composer
